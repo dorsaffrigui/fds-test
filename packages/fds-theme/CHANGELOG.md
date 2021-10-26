@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.1](https://www.github.com/dorsaffrigui/fds-test/compare/theme-v1.0.0...theme-v1.0.1) (2021-10-26)
+
+
+### Bug Fixes
+
+* update colors ([65a2705](https://www.github.com/dorsaffrigui/fds-test/commit/65a27051e70d8408be89569306bed00cd7bf2651))
+
 ## 1.0.0 (2021-10-26)
 
 
