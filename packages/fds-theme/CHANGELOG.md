@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.0](https://www.github.com/dorsaffrigui/fds-test/compare/theme-v1.0.1...theme-v2.0.0) (2021-10-26)
+
+
+### Miscellaneous Chores
+
+* release 2.0.0 ([378766f](https://www.github.com/dorsaffrigui/fds-test/commit/378766f50cda27fcee6c80d799df5739824f93bb))
+
 ### [1.0.1](https://www.github.com/dorsaffrigui/fds-test/compare/theme-v1.0.0...theme-v1.0.1) (2021-10-26)
 
 
