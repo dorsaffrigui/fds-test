@@ -1,6 +1,7 @@
 @use "@material/theme" with (
   $primary: #694ED6,
   $secondary: #C137A2,
+  $background: #fafafa
 );
 
 @mixin core-styles() {
