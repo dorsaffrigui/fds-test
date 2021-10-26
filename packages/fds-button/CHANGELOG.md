@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.1](https://www.github.com/dorsaffrigui/fds-test/compare/fds-button-v1.0.0...fds-button-v1.0.1) (2021-10-26)
+
+
+### Bug Fixes
+
+* add root ([fa976ba](https://www.github.com/dorsaffrigui/fds-test/commit/fa976ba2462ceb24c1cf62a4a4387e69f433accb))
+
 ## 1.0.0 (2021-10-26)
 
 
