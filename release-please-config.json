@@ -5,6 +5,10 @@
     "packages/fds-button": {
       "release-type": "node",
       "draft": false
+    },
+    "packages/fds-theme": {
+      "release-type": "node",
+      "draft": false
     }
   }
 }
