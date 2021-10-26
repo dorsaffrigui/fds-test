@@ -10,7 +10,7 @@
 @mixin dark-theme() {
   #{if(&, '&', ':root')} {
     --mdc-theme-primary: #694ED6;
-    --mdc-theme-secondary: #c137a2;
+    --mdc-theme-secondary: #C137A2;
     --mdc-theme-background: #fafafa;
     --mdc-theme-surface: #fff;
     --mdc-theme-error: #e40046;
