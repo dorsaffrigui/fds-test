@@ -1,6 +1,6 @@
 {
   "name": "fds-test",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "test repo",
   "author": "Talbot, Thomas <thomas.talbot@finastra.com>",
   "repository": {
@@ -9,6 +9,8 @@
   },
   "license": "MIT",
   "private": false,
-  "workspaces": ["packages/*"],
+  "workspaces": [
+    "packages/*"
+  ],
   "dependencies": {}
 }
