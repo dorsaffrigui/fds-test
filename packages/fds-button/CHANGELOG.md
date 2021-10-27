@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.0.2](https://www.github.com/dorsaffrigui/fds-test/compare/fds-button-v2.0.1...fds-button-v2.0.2) (2021-10-27)
+
+
+### Bug Fixes
+
+* button ([a762050](https://www.github.com/dorsaffrigui/fds-test/commit/a762050bc9dfef4ecac600305eff1cdf881b42c8))
+
 ### [2.0.1](https://www.github.com/dorsaffrigui/fds-test/compare/fds-button-v2.0.0...fds-button-v2.0.1) (2021-10-26)
 
 
