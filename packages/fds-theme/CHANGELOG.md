@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.0.2](https://www.github.com/dorsaffrigui/fds-test/compare/theme-v2.0.1...theme-v2.0.2) (2021-10-27)
+
+
+### Bug Fixes
+
+* test ([36b7e30](https://www.github.com/dorsaffrigui/fds-test/commit/36b7e305bdc7d43de28a08d89328e343b046c723))
+
 ### [2.0.1](https://www.github.com/dorsaffrigui/fds-test/compare/theme-v2.0.0...theme-v2.0.1) (2021-10-26)
 
 

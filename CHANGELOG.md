@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.0.3](https://www.github.com/dorsaffrigui/fds-test/compare/fds-test-v2.0.2...fds-test-v2.0.3) (2021-10-27)
+
+
+### Bug Fixes
+
+* test ([36b7e30](https://www.github.com/dorsaffrigui/fds-test/commit/36b7e305bdc7d43de28a08d89328e343b046c723))
+
 ### [2.0.2](https://www.github.com/dorsaffrigui/fds-test/compare/fds-test-v2.0.1...fds-test-v2.0.2) (2021-10-26)
 
 
