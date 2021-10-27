@@ -3,10 +3,8 @@
   "bootstrap-sha": "165f343b292438c086b81ea5ef9eedaf917e05ba",
   "packages": {
     "packages/fds-button": {
-     "release-as": "2.0.0"
     },
     "packages/fds-theme": {
-      "release-as": "2.0.0"
     },
     ".":{}
   }
