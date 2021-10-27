@@ -5,6 +5,7 @@
     "packages/fds-button": {
     },
     "packages/fds-theme": {
-    }
+    },
+    ".": {}
   }
 }
