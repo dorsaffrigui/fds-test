@@ -3,7 +3,7 @@
 @use '@finastra/fds-theme/typography/helpers' as typo-helper;
 
 body {
-   @include fds.bg-color(primary);
+    @include fds.bg-color(primary);
     @include fds.text-color(on-primary);
     @include fds.margin(5);
     text-align: center;
