@@ -1,6 +1,6 @@
 {
   "name": "fds-test",
-  "version": "2.0.3",
+  "version": "1.0.0",
   "description": "test repo",
   "author": "Talbot, Thomas <thomas.talbot@finastra.com>",
   "repository": {
@@ -12,5 +12,11 @@
   "workspaces": [
     "packages/*"
   ],
-  "dependencies": {}
+  "scripts": {
+    "build": "npm run build -w packages/app --watch",
+    "start": "npm run start -w packages/app"
+  },
+  "dependencies": {
+    "@finastra/fds-theme": "0.0.2"
+  }
 }

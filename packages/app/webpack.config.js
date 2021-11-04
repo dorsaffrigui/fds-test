@@ -12,7 +12,7 @@ module.exports = {
   plugins: [
     new HtmlWebpackPlugin({
       title: 'fds test app',
-      template: './src/index.ejs',
+      template: './src/index.html',
     })
   ],
   devServer: {

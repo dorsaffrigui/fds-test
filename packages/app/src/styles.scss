@@ -1,9 +1,22 @@
-@use "@finastra/theme";
-@use "@finastra/typography";
-@use "@material/button/styles";
+@use '@finastra/fds-theme' as fds;
+@use '@finastra/fds-theme/color/helpers' as color-helper;
+@use '@finastra/fds-theme/typography/helpers' as typo-helper;
 
-@include theme.core-styles;
-
-.dark {
-    @include theme.dark-theme;
+body {
+   @include fds.bg-color(primary);
+    @include fds.text-color(on-primary);
+    @include fds.margin(5);
+    text-align: center;
 }
+
+.emoji {
+    font-size: 5em;
+  }
+  
+  h1 {
+    @include fds.typography(headline1);
+  }
+  
+  p {
+    font: var(--fds-body1);
+  }

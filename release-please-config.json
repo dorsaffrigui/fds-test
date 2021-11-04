@@ -3,9 +3,8 @@
   "bootstrap-sha": "165f343b292438c086b81ea5ef9eedaf917e05ba",
   "packages": {
     "packages/fds-button": {
-    },
-    "packages/fds-theme": {
-    },
-    ".": {}
+      "release-type": "node",
+      "draft": false
+    }
   }
 }

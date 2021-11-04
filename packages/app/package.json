@@ -9,10 +9,6 @@
     "build": "webpack"
   },
   "dependencies": {
-    "@finastra/theme": "1.0.0",
-    "@finastra/typography": "1.0.0",
-    "@material/button": "^11.0.0",
-    "@material/mwc-button": "^0.21.0",
     "css-loader": "^5.2.6",
     "html-webpack-plugin": "^5.3.1",
     "sass": "^1.34.0",
